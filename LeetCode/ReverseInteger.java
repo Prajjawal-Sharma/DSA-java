@@ -4,7 +4,7 @@ package LeetCode;
 
 // Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
-public class ReverseString {
+public class ReverseInteger {
     
         public int reverse(int x) {
             int rev=0;
